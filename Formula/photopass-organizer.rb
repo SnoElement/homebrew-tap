@@ -4,7 +4,7 @@ class PhotopassOrganizer < Formula
   desc "Sort Disney PhotoPass downloads by day and park, and share them with friends"
   homepage "https://github.com/SnoElement/photopass-organizer"
   url "https://github.com/SnoElement/photopass-organizer/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "a8bc76c146cb7729105ec3a9f2f12d57615e57a93bf04542efabfaa8f6a5e969"
+  sha256 "f66978d86481a8ab398ddf4bb1fc2ac48c6dbd4cbd7b8786791cb52d73174ffb"
   license "MIT"
   head "https://github.com/SnoElement/photopass-organizer.git", branch: "main"
 
